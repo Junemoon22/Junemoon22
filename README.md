@@ -1,5 +1,3 @@
-![Uploading image.png…]()
-
 
 # 💫 About Me:
 ⚙️system engineer
